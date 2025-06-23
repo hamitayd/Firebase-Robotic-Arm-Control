@@ -13,8 +13,8 @@
 #define WIFI_SSID "MSI8548"
 #define WIFI_PASSWORD "38c4M389"
 
-#define API_KEY "AIzaSyBxQcFqjDw75VptDTnUWH0kqqTmh8GXHks"
-#define DATABASE_URL "robotikol-e1aef-default-rtdb.firebaseio.com"
+#define API_KEY "-------------------------------" //your API key
+#define DATABASE_URL "---------------------------------" // your database url
 
 FirebaseData fbdo;
 FirebaseAuth auth;
